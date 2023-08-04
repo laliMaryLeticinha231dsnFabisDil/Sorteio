@@ -2,5 +2,12 @@ body{
     background-color: antiquewhite;
 }
 .titulo{
-    
+    width: 400px;
+    margin-left: 450px;
+    margin-top: 40px;
+}
+
+.entrada{
+    width: 80px;
+    text-align: center;
 }
