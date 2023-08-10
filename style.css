@@ -8,6 +8,7 @@ body{
 }
 
 .entrada{
-    width: 80px;
-    text-align: center;
+    width: 90px;
+    border: 100px;
+   
 }
